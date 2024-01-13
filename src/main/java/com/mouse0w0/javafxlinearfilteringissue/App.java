@@ -1,19 +1,14 @@
 package com.mouse0w0.javafxlinearfilteringissue;
 
 import javafx.application.Application;
-import javafx.event.EventHandler;
 import javafx.geometry.Point3D;
 import javafx.scene.Group;
 import javafx.scene.PerspectiveCamera;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
-import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
 import javafx.scene.paint.PhongMaterial;
 import javafx.scene.shape.Box;
-import javafx.scene.shape.MeshView;
-import javafx.scene.shape.Shape3D;
-import javafx.scene.shape.TriangleMesh;
 import javafx.stage.Stage;
 
 import java.io.IOException;
